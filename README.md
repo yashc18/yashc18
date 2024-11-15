@@ -5,8 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer and designer with exper
 ### 🌟 About Me
 - 💼 Currently studying Computer Engineering at **NMIET** and actively contributing to the tech community.
 - 🎨 Experienced designer and social media manager, having grown an Instagram account to **20k followers in 5 months**.
-- 🎮 Building an eSports portfolio app that blends **LinkedIn** and **TikTok** for gamers.
-- 🚀 Passionate about AI and blockchain; exploring ways to integrate these technologies into real-world applications.
+- 🚀 Passionate about AI; exploring ways to integrate these technologies into real-world applications.
 
 ### 🔧 Technologies & Skills
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
