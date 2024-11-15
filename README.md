@@ -1,6 +1,6 @@
 # Hi there, I'm Yash! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and designer with experience across various fields, including AI, app development, eSports, and open-source contributions. My goal is to create innovative solutions that make an impact, whether through designing seamless user interfaces or developing cutting-edge applications.
+Welcome to my GitHub profile! I'm a passionate developer with experience across various fields, including AI, app development,, and open-source contributions. My goal is to create innovative solutions that make an impact, whether through developing cutting-edge applications.
 
 ### 🌟 About Me
 - 💼 Currently studying Computer Engineering at **NMIET** and actively contributing to the tech community.
@@ -8,10 +8,10 @@ Welcome to my GitHub profile! I'm a passionate developer and designer with exper
 - 🚀 Passionate about AI; exploring ways to integrate these technologies into real-world applications.
 
 ### 🔧 Technologies & Skills
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer and designer with exper
 ### 💡 Notable Projects
 - **AI + Blockchain Vote Casting App**: Developed a secure and decentralized voting system leveraging AI and blockchain technology.
 - **FoodEx** : Food Delivery Mobile App
-- **Outerview - AI Research Assistant**: An AI-powered assistant for podcasters, quickly generating insightful research for upcoming guests.
+- **Outerview - AI Research Assistant**: An AI-powered assistant for podcasters, quickly generating insightful research for upcoming guests. (Chrome Extension Build using Gemini API)
 - **Optimal Ship Routing Application**: Designed to optimize shipping routes in the Indian Ocean using weather data, pathfinding, and cost functions for real-time adjustments. (In Progress)
 
 ### 🏆 Achievements
