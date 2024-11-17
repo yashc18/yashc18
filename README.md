@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 ### 💡 Notable Projects
 - **AI + Blockchain Vote Casting App**: Developed a secure and decentralized voting system leveraging AI and blockchain technology.
 - **FoodEx** : Food Delivery Mobile App
-- **Outerview - AI Research Assistant**: An AI-powered assistant for podcasters, quickly generating insightful research for upcoming guests. (Chrome Extension Build using Gemini API)
+- **Outerview : AI Research Assistant**: An AI-powered assistant for podcasters, quickly generating insightful research for upcoming guests. (Chrome Extension Build using Gemini API)
 - **Optimal Ship Routing Application**: Designed to optimize shipping routes in the Indian Ocean using weather data, pathfinding, and cost functions for real-time adjustments. (In Progress)
 
 ### 🏆 Achievements
