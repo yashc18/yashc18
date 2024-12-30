@@ -1,6 +1,6 @@
 # Hi there, I'm Yash! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with experience across various fields, including AI, app development,, and open-source contributions. My goal is to create innovative solutions that make an impact, whether through developing cutting-edge applications.
+Welcome to my GitHub profile! I'm a passionate developer with experience across various fields, including AI, app development, and open-source contributions. My goal is to create innovative solutions that make an impact, whether through developing cutting-edge applications.
 
 ### 🌟 About Me
 - 💼 Currently studying Computer Engineering at **NMIET** and actively contributing to the tech community.
@@ -18,11 +18,13 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 
 ### 💡 Notable Projects
 - **AI + Blockchain Vote Casting App**: Developed a secure and decentralized voting system leveraging AI and blockchain technology.
-- **FoodEx** : Food Delivery Mobile App
+- **FoodEx**: Food Delivery Mobile App
 - **Outerview : AI Research Assistant**: An AI-powered assistant for podcasters, quickly generating insightful research for upcoming guests. (Chrome Extension Build using Gemini API)
 - **Optimal Ship Routing Application**: Designed to optimize shipping routes in the Indian Ocean using weather data, pathfinding, and cost functions for real-time adjustments. (In Progress)
 
 ### 🏆 Achievements
+- **LeetCode**: Completed 50 days of coding challenge.  
+  ![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%20Days%20Completed-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 - **Accenture Innovation Hackathon 2024**: Participant with a focus on AI-driven solutions.
 - **Ideathon by NIC**: 2nd Runner-Up.
 - **ACES Club, NMIET**: Actively involved in events and hackathons.
