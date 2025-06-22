@@ -17,6 +17,10 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💡 Notable Projects
+- **HashPay**: Blockchain-based Internation Android payments app with MetaMask SDK, 99.7% reliability, offline Room DB caching.
+- **GenZcrop**: AI-powered agri-tech app with Gemini chatbot, soil/disease detection, and multilingual support.
+  
+### 💡 Side Projects
 - **AI + Blockchain Vote Casting App**: Developed a secure and decentralized voting system leveraging AI and blockchain technology.
 - **FoodEx**: Food Delivery Mobile App
 - **Outerview : AI Research Assistant**: An AI-powered assistant for podcasters, quickly generating insightful research for upcoming guests. (Chrome Extension Build using Gemini API)
