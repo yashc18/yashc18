@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 ### 🌟 About Me
 - 💼 Currently studying Computer Engineering at **NMIET** and actively contributing to the tech community.
 - 🎨 Experienced designer and social media manager, having grown an Instagram account to **20k followers in 5 months**.
-- 🚀 Passionate about AI; exploring ways to integrate these technologies into real-world applications.
+- 🚀 Passionate about Mobile Development & AI; exploring ways to integrate these technologies into real-world applications.
 
 ### 🔧 Technologies & Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -28,13 +28,14 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 
 ### 🏆 Achievements
 - **LeetCode**: Completed 50 days of coding challenge.  
-  ![LeetCode 50 Days](https://img.shields.io/badge/LeetCode-50%20Days%20Completed-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-- **Accenture Innovation Hackathon 2024**: Participant with a focus on AI-driven solutions.
+  ![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-50%20Days%20Completed-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+- Participanted In 25+ National Level Hackathons and Project Compititions.
 - **Ideathon by NIC**: 2nd Runner-Up.
 - **ACES Club, NMIET**: Actively involved in events and hackathons.
 
 ### 🛠️ Open Source Contributions
 - **Mifos**: Working on improving the Android app experience by implementing dark mode, fixing UI issues, and enhancing theme support.
+- **OneBusAway** : During GSoC 2025 Participation, Contributed a Little fixes.
 
 ### 🎯 Current Goals
 - Build and monetize a unique SaaS platform.
