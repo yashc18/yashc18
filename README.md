@@ -27,8 +27,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 - **Optimal Ship Routing Application**: Designed to optimize shipping routes in the Indian Ocean using weather data, pathfinding, and cost functions for real-time adjustments. (In Progress)
 
 ### 🏆 Achievements
-- **LeetCode**: Completed 50 days of coding challenge.  
-  ![LeetCode 100 Days](https://img.shields.io/badge/LeetCode-50%20Days%20Completed-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+- **LeetCode**: Completed 150+ days of coding.  
 - Participanted In 25+ National Level Hackathons and Project Compititions.
 - **Ideathon by NIC**: 2nd Runner-Up.
 - **ACES Club, NMIET**: Actively involved in events and hackathons.
