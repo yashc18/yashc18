@@ -1,6 +1,6 @@
 # Hi there, I'm Yash! 👋
 
-Welcome to my GitHub profile! I'm a developer with experience across various fields, including AI, app development, and open-source contributions. My goal is to create innovative solutions that make an impact, whether through developing cutting-edge applications.
+Welcome to my GitHub profile! I'm a developer with experience across various fields, including AI, app + backend development, and open-source contributions. My goal is to create innovative solutions that make an impact, whether through developing cutting-edge applications.
 
 ### 🌟 About Me
 - 💼 Currently SWE Intern **@Ridecell (YC W12)** & studying Computer Engineering at **NMIET**
@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a developer with experience across various fie
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💡Main Projects
-- **HashPay**: Blockchain-based Internation Android payments app with MetaMask SDK, 99.7% reliability, offline Room DB caching.
-- **GenZcrop**: AI-powered agri-tech app with Gemini chatbot, soil/disease detection, and multilingual support.
+- **HashPay**: Blockchain-based Internation Android payments app with Django Backend.
+- **GenZcrop**: AI-powered agri-tech Marketplace app with Gemini chatbot, soil/disease detection, and multilingual support.
   
 ### 💡 Side Projects
 - **Hyrd** - ATS Resume Score Calculator + Job Finding Platform.
@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a developer with experience across various fie
 
 ### 🛠️ Open Source Contributions
 - **Mifos**: Working on improving the Android app experience by implementing dark mode, fixing UI issues, and enhancing theme support.
-- **OneBusAway** : During GSoC 2025 Participation, Contributed a Little fixes.
+- **OneBusAway** : During GSoC 2025 Participation, Contributed to minor fixes.
 
 
 ### 📫 Let's Connect!
